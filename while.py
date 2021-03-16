@@ -19,10 +19,14 @@ while Don't stop !!!
 password = str(input('Password: '))
 
 print('Please enter your password to login !')
-while True:
+while 1=1:
     password2 = str(input('Confirm password: '))
     if password != password2:
         print('Try again !')
     else:
         print('Welcome to our site !')
         break
+
+'''
+Learn GitHub !
+'''
