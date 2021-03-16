@@ -1,7 +1,7 @@
 print('Python While operation system...')
 
 '''
-while Don't stop !!!
+while Don't stop !!!!!!
 '''
 
 # c = 0
